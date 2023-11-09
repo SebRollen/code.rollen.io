@@ -18,6 +18,7 @@ GITEA__security__INSTALL_LOCK="true" # Don't show installer
 GITEA__service__DISABLE_REGISTRATION="true" # TODO: uncomment once you have created your first user
 GITEA__ui__DEFAULT_THEME="nord"
 GITEA__ui__THEMES="auto,gitea,arc-green,nord"
+GITEA__ui__THEME_COLOR_META_TAG="#343b49"
 
 # persist data
 [[mounts]]
