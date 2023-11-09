@@ -13,6 +13,7 @@ GITEA__database__PATH="/data/gitea/gitea.db"
 GITEA__server__DOMAIN="code.rollen.io"
 GITEA__server__SSH_DOMAIN="code.rollen.io"
 GITEA__server__ROOT_URL="https://code.rollen.io"
+GITEA__server__LANDING_PAGE="explore"
 GITEA__security__INSTALL_LOCK="true" # Don't show installer
 GITEA__service__DISABLE_REGISTRATION="true" # TODO: uncomment once you have created your first user
 
